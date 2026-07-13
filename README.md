@@ -58,6 +58,12 @@ The **Mobile Sales Dashboard** is an interactive Power BI project developed to a
 
 ![Dashboard][https://github.com/Aishk12/Mobile-Sales-Dashboard-Power-BI/blob/e6c12bbb998535c7ef94ca4fe9998a8f3fc61487/Screenshot%202026-07-13%20114303.png]
 
+## 🎥 Dashboard Walkthrough
+
+Watch the interactive dashboard in action.
+
+▶️ [View Dashboard Demo](https://github.com/Aishk12/Mobile-Sales-Dashboard-Power-BI/blob/deb200915b23f7c7a0b21d138908dcf6b94815bd/Screen%20Recording%202026-07-13%20115534.mp4)
+
 ---
 
 ## 📈 Key Insights
